@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+deploy:
+ type:git
+ repo:git@github.com:Acarafep/Acarafep.github.io.git
+ branch:master
